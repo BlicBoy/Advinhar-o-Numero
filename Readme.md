@@ -1,1 +1,3 @@
-Feito para a universidade! Advinhar o numero com 3 niveis diferentes
+Projecto pequeno em C!
+Feito para uma pequena apresentação na universidade!
+Facil de alterar!
